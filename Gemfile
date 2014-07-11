@@ -2,6 +2,6 @@
 source "https://rubygems.org"
 
 gem 'rspec'
-gem 'capybara'
-gem 'capybara-mechanize'
+gem 'capybara', '~> 2.4.1'
+gem 'capybara-mechanize', path: '/Users/attila/Projects/capybara-mechanize'
 gem 'pry'
